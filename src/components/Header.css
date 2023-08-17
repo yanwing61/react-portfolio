@@ -1,0 +1,50 @@
+header{
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    background-color: var(--sec-color);
+    z-index: 2;
+}
+
+#linkedin, #github{
+    max-width: 40px;
+}
+
+#logo a{
+    color: var(--pri-color);
+}
+
+#logo{
+    font-size: 2em;
+}
+
+#mobile-menu{
+    display: none;
+}
+
+#main-nav{
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+
+#main-nav a{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#main-nav a:hover{
+    background: var(--gradient-base);
+    background: var(--gradient-level);
+    color: var(--sec-color);
+}
+
+.nav{
+    color: var(--pri-color);
+    font-weight: 700; 
+    font-size: 1.5em;
+    align-self: center;
+}

@@ -12,3 +12,9 @@
 .no-border{
   --bs-card-border-width: 0;
 }
+
+.slogan{
+  font-family: 'Libre Barcode 128 Text', cursive;
+  font-size: 4em;
+  align-self: center;
+}
