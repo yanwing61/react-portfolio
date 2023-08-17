@@ -1,6 +1,6 @@
 import './App.css'
 import Header from "./components/Header.jsx";
-// import Welcome from "./components/Welcome.jsx";
+import Welcome from "./components/Welcome.jsx";
 // import Skills from "./components/Skills.jsx";
 // import Projects from "./components/Projects.jsx";
 // import Education from "./components/Education.jsx";
@@ -11,8 +11,8 @@ export default function App() {
     <>
       <Header />
         <main>
-          {/* <Welcome />
-          <Skills />
+          <Welcome />
+          {/* <Skills />
           <Projects />
           <Education /> */}
         </main>
