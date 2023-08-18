@@ -3,7 +3,7 @@ import Header from "./components/Header.jsx";
 import Welcome from "./components/Welcome.jsx";
 import Skills from "./components/Skills.jsx";
 import Projects from "./components/Projects.jsx";
-// import Education from "./components/Education.jsx";
+import Education from "./components/Education.jsx";
 // import Footer from "./components/Footer.jsx";
 
 export default function App() {
@@ -14,7 +14,7 @@ export default function App() {
           <Welcome />
           <Skills />
           <Projects />
-          {/*<Education /> */}
+          <Education />
         </main>
         {/* <Footer /> */}
     </>

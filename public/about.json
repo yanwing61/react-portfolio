@@ -41,7 +41,46 @@
             "English",
             "Chinese"
         ]
+    },
+      
+    "educations": {
+        "Humber College": {
+            "logo": {
+            "url": "humber",
+            "alt": "Humber College logo",
+            "link": "https://humber.ca"
+            },
+            "degree": "Postgraduate Certificate in Web Development",
+            "duration": "Jan 2023 - PRESENT",
+            "details": [
+            "Dean's List for the Faculty of Media and Creative Arts for the Winter 2023 term"
+            ]
+        },
+        "The Chinese University of Hong Kong": {
+            "logo": {
+            "url": "cuhk",
+            "alt": "CUHK logo",
+            "link": "https://cuhk.edu.hk"
+            },
+            "degree": "Bachelor's degree in Social Science with a major in Journalism and Communication",
+            "duration": "Sep 2014 - Dec 2018",
+            "details": [
+            "Practicum: News Reporting & Editing"
+            ]
+        },
+        "University of Bergen": {
+            "logo": {
+            "url": "uib",
+            "alt": "UiB logo",
+            "link": "https://www.uib.no/"
+            },
+            "degree": "Exchange student",
+            "duration": "Aug 2016 - Dec 2016",
+            "details": [
+            "Studied Web design and social technology in Bergen, Norway."
+            ]
+        }
     }
-    
+
     
 }
