@@ -1,0 +1,33 @@
+#footer{
+    background: var(--gradient-base);
+    background: var(--gradient-level);
+    color: var(--sec-color);
+}
+
+#connect, #footer a{
+    color: var(--sec-color);
+}
+
+footer img{
+    margin-right: 1em;
+}
+
+#footer-contact{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20%;
+}
+
+#footer-copyright{
+    margin-top: 2em;
+}
+
+#top{
+    background: var(--gradient-base);
+    background: var(--gradient-level);
+    padding: 0.5em;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}

@@ -1,5 +1,29 @@
 {
-    "email": "mailto:ywpang61@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/ywpang/",
-    "github": "https://github.com/yanwing61"
-}
+    "contactInfo": [
+      {
+        "type": "email",
+        "url": "mailto:ywpang61@gmail.com",
+        "imgSrc": "email-w",
+        "alt": "email icon",
+        "id": "footer-email",
+        "displayText": "ywpang61@gmail.com"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/in/ywpang/",
+        "imgSrc": "linkedin-w",
+        "alt": "Linkedin logo",
+        "id": "footer-linkedin",
+        "displayText": "in/ywpang/"
+      },
+      {
+        "type": "github",
+        "url": "https://github.com/yanwing61/",
+        "imgSrc": "github-w",
+        "alt": "Github logo",
+        "id": "footer-github",
+        "displayText": "yanwing61"
+      }
+    ]
+  }
+  
