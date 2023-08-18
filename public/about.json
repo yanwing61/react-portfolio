@@ -1,4 +1,47 @@
 {
     "name": "Yan Wing Pang",
-    "headline": "Full-stack Web Development | Project Management | Communication"
+    "headline": "Full-stack Web Development | Project Management | Communication",
+    "skills": {
+        "Front-end": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "React.js",
+            "Pug.js",
+            "Bootstrap",
+            "WordPress"
+        ],
+        "Back-end": [
+            "Node.js",
+            "Express.js",
+            "PHP",
+            "ASP.NET",
+            "C#"
+        ],
+        "Database": [
+            "MySQL",
+            "NoSQL, MongoDB"
+        ],
+        "Project Management": [
+            "Github",
+            "Testing (Jasmine, Cypress)",
+            "Trello",
+            "Mailchimp",
+            "Google Analytics",
+            "Microsoft Office"
+        ],
+        "Multimedia": [
+            "Video Editing (Adobe Premier Pro)",
+            "Adobe Photoshop",
+            "Adobe InDesign",
+            "Adobe Illustrator",
+            "UX Design (Figma)"
+        ],
+        "Language": [
+            "English",
+            "Chinese"
+        ]
+    }
+    
+    
 }

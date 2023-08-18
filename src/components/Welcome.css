@@ -46,6 +46,11 @@
     align-self: center;
 }
 
+#propic img{
+    max-width: 300px;
+    margin: 2em 0;
+}
+
 .intro-text-para{
     font-size: 1.2em;
 }

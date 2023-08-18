@@ -18,7 +18,7 @@ export default function Header() {
           <div id="site-logo">
             <div className="slogan nav" id="logo"><a href="/">Yan Can Code</a></div>
           </div>
-          <a href="#about" className="nav">about</a>
+          <a href="#skills" className="nav">skills</a>
           <span className="nav">|</span>
           <a href="#project" className="nav">projects</a>
           <span className="nav">|</span>
@@ -40,7 +40,7 @@ export default function Header() {
             <img id="m-menu-icon" src={Menu} alt="menu icon" />
             </button>
             <ul className="mobile-menu">
-              <li><a href="#about">skills</a></li>
+              <li><a href="#skills">skills</a></li>
               <li><a href="#project">projects</a></li>
               <li><a href="#education">education</a></li>
               <li><a href="#footer">contact</a></li>
