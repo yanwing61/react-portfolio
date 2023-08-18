@@ -1,0 +1,72 @@
+{
+    "projects": [
+        {
+            "imgSrc": "projweather",
+            "alt": "Weather Tune API project",
+            "title": "Weather Tune",
+            "description": "Retrieved the current weather conditions based on user input, and suggest a matching Spotify playlist based on the weather.",
+            "technologies": ["Node.js", "Pug.js", "Express.js", "API"],
+            "links": [
+                {
+                    "type": "Live Preview",
+                    "url": "/"
+                },
+                {
+                    "type": "Source code",
+                    "url": "https://github.com/yanwing61/weather-tune/"
+                }
+            ]
+        },
+        {
+            "imgSrc": "projmeal",
+            "alt": "My Balanced Diet",
+            "title": "My Balanced Diet",
+            "description": "An interactive tool for meal planning. Implemented dynamic button highlighting based on the current day of the week. Stored and displayed food choices in categorized boxes.",
+            "technologies": ["Javascript", "HTML", "CSS"],
+            "links": [
+                {
+                    "type": "Live Preview",
+                    "url": "https://yanwing61.github.io/My-balanced-diet/"
+                },
+                {
+                    "type": "Source code",
+                    "url": "https://github.com/yanwing61/My-balanced-diet"
+                }
+            ]
+        },
+        {
+            "imgSrc": "projpantry",
+            "alt": "Pantry Management System",
+            "title": "Pantry Management System",
+            "description": "Full Relational CRUD and Authentication for an efficient pantry management.",
+            "technologies": ["ASP.NET MVC", "C#", "mySQL", "GitHub"],
+            "links": [
+                {
+                    "type": "Demo Video",
+                    "url": "https://www.youtube.com/watch?v=i73Xgkq_U_E"
+                },
+                {
+                    "type": "Source code",
+                    "url": "https://github.com/yanwing61/PassionProject2"
+                }
+            ]
+        },
+        {
+            "imgSrc": "projsundae",
+            "alt": "Sundae Bar",
+            "title": "Sundae Bar",
+            "description": "Leveraged CSS animation properties such as keyframes, transforms and transition. Utilized JavaScript to enhance animations and create interactive user experiences, such as triggering animations via clicking buttons.",
+            "technologies": ["CSS", "JavaScript", "HTML"],
+            "links": [
+                {
+                    "type": "Live Preview",
+                    "url": "https://yanwing61.github.io/Sundae-Bar/"
+                },
+                {
+                    "type": "Source code",
+                    "url": "https://github.com/yanwing61/Sundae-Bar"
+                }
+            ]
+        }
+    ]
+}

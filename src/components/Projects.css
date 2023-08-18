@@ -1,0 +1,36 @@
+.card{
+    margin: 1em;
+}
+
+.video{
+    margin: 2em 1em!important;
+}
+
+.video-title{
+    color: var(--text-color);
+    position: relative;
+    top: 50%;
+}
+
+.external-link{ 
+    max-width: 150px;
+    background-color: var(--sec-color);
+    padding: 0.1em;
+}
+
+.external-link a{
+    display: block;
+    color:  var(--text-color);
+    margin: 0.5em 0;
+    padding: 5px;
+    text-align: center;
+    font-weight: 700;
+    border-radius: 5px;
+    border: 3px solid var(--text-color);
+}
+
+.external-link a:hover{
+    background: var(--gradient-base);
+    background: var(--gradient-level);
+    color: var(--sec-color);
+}
