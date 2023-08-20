@@ -20,7 +20,7 @@ export default function Header() {
           </div>
           <a href="#skills" className="nav">skills</a>
           <span className="nav">|</span>
-          <a href="#project" className="nav">projects</a>
+          <a href="#projects" className="nav">projects</a>
           <span className="nav">|</span>
           <a href="#education" className="nav">education</a>
           <span className="nav">|</span>
@@ -41,7 +41,7 @@ export default function Header() {
             </button>
             <ul className="mobile-menu">
               <li><a href="#skills">skills</a></li>
-              <li><a href="#project">projects</a></li>
+              <li><a href="#projects">projects</a></li>
               <li><a href="#education">education</a></li>
               <li><a href="#footer">contact</a></li>
             </ul>

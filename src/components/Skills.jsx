@@ -16,7 +16,7 @@ export default function Skills(){
     return(
         <section id="skills">
             <h3>#Skills</h3>
-            <ul key="skills">
+            <ul key="skillList">
             {Object.entries(skillData).map(([category, skillsList]) => (
                     <li className="skill-title">{category}
                         {skillsList.map((skill, index) => (
@@ -25,7 +25,7 @@ export default function Skills(){
                     </li>
             ))}
             </ul>
-      </section>
+        </section>
 
 
     );

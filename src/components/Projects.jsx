@@ -27,7 +27,7 @@ export default function Projects() {
     }
 
     return (
-        <section id="Projects">
+        <section id="projects">
             <h3>#Projects</h3>
 
             <div className="card no-border">
