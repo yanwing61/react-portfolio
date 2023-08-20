@@ -8,7 +8,7 @@
             "technologies": ["Node.js", "Pug.js", "Express.js", "API"],
             "links": [
                 {
-                    "type": "Live Preview",
+                    "type": "Live Preview [pending]",
                     "url": "/"
                 },
                 {
@@ -31,6 +31,23 @@
                 {
                     "type": "Source code",
                     "url": "https://github.com/yanwing61/My-balanced-diet"
+                }
+            ]
+        },
+        {
+            "imgSrc": "projscratch",
+            "alt": "Scratch-Off",
+            "title": "Scratch-Off",
+            "description": "an interactive canvas-based web application where users can pick a color to scratch off and see how many emojis they've uncovered.",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "links": [
+                {
+                    "type": "Live Preview",
+                    "url": "https://ywpang.com/scratch-off/"
+                },
+                {
+                    "type": "Source code",
+                    "url": "https://github.com/yanwing61/scratch-off"
                 }
             ]
         },

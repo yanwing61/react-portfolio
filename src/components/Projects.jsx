@@ -6,6 +6,7 @@ import projmeal from "../assets/proj-meal.png";
 import projpantry from "../assets/proj-pantry.png";
 import projsundae from "../assets/proj-sundae.png";
 import projweather from "../assets/proj-weather.png";
+import projscratch from "../assets/proj-scratch.png";
 
 export default function Projects() {
     const [ProjectData, setProjectData] = useState([]);
@@ -20,6 +21,7 @@ export default function Projects() {
     }, []);
 
     const images = {
+        projscratch: projscratch,
         projweather: projweather,
         projmeal: projmeal,
         projpantry: projpantry,
