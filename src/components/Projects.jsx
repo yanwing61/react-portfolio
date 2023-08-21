@@ -29,7 +29,7 @@ export default function Projects() {
     }
 
     return (
-        <section id="projects">
+        <section id="projects" className="pad">
             <h3>#Projects</h3>
 
             <div className="card no-border">

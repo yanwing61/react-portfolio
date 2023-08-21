@@ -5,7 +5,7 @@ export default function More(){
 
 
     return(
-        <section id="more">
+        <section id="more" className="pad">
               <h3>#More</h3>
           <ul>
             <li>&#128049; Cat lover</li>

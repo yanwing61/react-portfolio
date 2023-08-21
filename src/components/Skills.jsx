@@ -14,7 +14,7 @@ export default function Skills(){
     }, []);
 
     return(
-        <section id="skills">
+        <section id="skills" className="pad">
             <h3>#Skills</h3>
             <ul key="skillList">
             {Object.entries(skillData).map(([category, skillsList]) => (

@@ -8,8 +8,8 @@
             "technologies": ["Node.js", "Pug.js", "Express.js", "API"],
             "links": [
                 {
-                    "type": "Live Preview [pending]",
-                    "url": "/"
+                    "type": "Live Preview",
+                    "url": "https://weather-tune.fly.dev"
                 },
                 {
                     "type": "Source code",

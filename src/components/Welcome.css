@@ -1,6 +1,6 @@
 #welcome{
     object-fit: cover;
-    height: 80vh;
+    /* height: 80vh; */
     /* padding: 5%; */
     width: 100%;
     display: flex;

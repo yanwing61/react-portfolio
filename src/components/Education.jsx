@@ -24,7 +24,7 @@ export default function Educations() {
     }
 
     return (
-    <section id="education">
+    <section id="education" className="pad">
         <h3>#Education</h3>
 
         {Object.entries(EducationData).map(([schoolName, educationDetails]) => (
