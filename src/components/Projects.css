@@ -1,6 +1,17 @@
 .card{
     margin: 1em;
+    animation: fadeIn 1s;
 }
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
 
 .video{
     margin: 2em 1em!important;
@@ -33,4 +44,7 @@
     background: var(--gradient-base);
     background: var(--gradient-level);
     color: var(--sec-color);
+    transform: scale(1.1);
+    transition: transform 0.3s;
 }
+
